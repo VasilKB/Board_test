@@ -1,5 +1,5 @@
 headers = {
-    'content-type' : 'application/json'
+    'Public-Api-Key: <ключ_API>'
 }
 body_user= {
     "name" : 'WWW',
